@@ -1,4 +1,4 @@
-## 🎮 Decodificador de texto
+## 🤖 Decodificador de texto
 
 Este repositório foi criado para fins de hospedar meu projeto pessoal de desenvolvimento de um decodificador de texto para texto criptografado e vice-versa.
 
