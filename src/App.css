@@ -1,0 +1,14 @@
+body {
+  background-color: #39375b;
+  background: url("./images/lofi.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+@media (max-width: 768px) {
+  body {
+    height: 100%;
+    background-position: center;
+  }
+}
